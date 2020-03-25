@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "simple node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshwar6666/node-server.git"
+  },
+  "keywords": [
+    "javascript",
+    "web",
+    "server",
+    "node.js"
+  ],
+  "author": "Vigneshwar reddy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vigneshwar6666/node-server/issues"
+  },
+  "homepage": "https://github.com/vigneshwar6666/node-server#readme"
+}
